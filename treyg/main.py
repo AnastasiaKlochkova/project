@@ -28,3 +28,4 @@ for a in range(len(array_cord)):
                         cord = array_cord[a], array_cord[b], array_cord[c]
 
 print(f"Результат: \nСтороны треугольника с наибольшей площадью = {cord} \nПлощадь = {max_square}")
+
